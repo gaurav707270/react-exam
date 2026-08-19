@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "email": "sachinkharate2004@gmail.com",
+      "password": "1234567",
+      "id": "yr0X52yboWw"
+    },
+    {
+      "email": "gauravkharate2004@gmail.com",
+      "password": "12345",
+      "id": "fb9mysNC4Tk"
+    },
+    {
+      "email": "sachinkharate2004@gmail.com",
+      "password": "sachin7072",
+      "id": "GLOBwYRA82U"
+    },
+    {
+      "email": "sachinkharate2004@gmail.com",
+      "password": "12345",
+      "id": "E8QNsUmzp2Q"
+    },
+    {
+      "email": "sachinkharate2004@gmail.com",
+      "password": "12345",
+      "id": "-rrzNR9JHjo"
+    },
+    {
+      "email": "sachinkharate2004@gmail.com",
+      "password": "12345",
+      "id": "U2BAAWq3dZ4"
+    },
+    {
+      "email": "sachinkharate2004@gmail.com",
+      "password": "12345",
+      "id": "GSYz_DFTi9s"
+    }
+  ],
+  "allStudentData": [
+    {
+      "name": "sachiubh",
+      "grade": "AA",
+      "subject": "scince",
+      "id": "wrPRcOrGoO8"
+    },
+    {
+      "name": "gaurav",
+      "grade": "BB",
+      "subject": "math",
+      "id": "16TSQdStBJ4"
+    },
+    {
+      "name": "gaurav",
+      "grade": "A",
+      "subject": "english",
+      "id": "GY8qKE-cl-I"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
