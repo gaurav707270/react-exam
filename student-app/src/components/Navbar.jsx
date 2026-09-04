@@ -6,7 +6,7 @@
         // user: {
             email: "",
             password: "",
-        }
+        // }
     // },
     // reducers: {
         // singUp: (state, action) => {
