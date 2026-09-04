@@ -5,7 +5,7 @@ import { createSlice } from "@reduxjs/toolkit";
     // initialState: {
         user: {
             // email: "",
-            // password: "",
+            password: "",
         }
     // },
     // reducers: {
