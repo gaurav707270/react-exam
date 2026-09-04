@@ -4,7 +4,7 @@
     // name: "auth",
     // initialState: {
         // user: {
-            email: "",
+            // email: "",
             password: "",
         // }
     // },
