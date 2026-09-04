@@ -8,7 +8,7 @@
             password: "",
         }
     // },
-    reducers: {
+    // reducers: {
         // singUp: (state, action) => {
             user.state = action.payload
 
