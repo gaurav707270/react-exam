@@ -9,7 +9,7 @@
         }
     // },
     reducers: {
-        singUp: (state, action) => {
+        // singUp: (state, action) => {
             user.state = action.payload
 
         },
