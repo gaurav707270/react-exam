@@ -3,7 +3,7 @@
 const authSlice = createSlice({
     name: "auth",
     // initialState: {
-        user: {
+        // user: {
             email: "",
             password: "",
         }
