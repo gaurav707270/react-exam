@@ -15,7 +15,7 @@ const authSlice = createSlice({
 
         },
 
-        singIn: (state, action) => {
+        // singIn: (state, action) => {
 
         }
     }
