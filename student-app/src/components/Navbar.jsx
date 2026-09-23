@@ -2,7 +2,8 @@
 
 const authSlice = createSlice({
     name: "auth",
-    initialState: {
+    // initialState: {s
+    
         user: {
             email: "",
             // password: "",
