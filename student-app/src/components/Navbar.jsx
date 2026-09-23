@@ -6,7 +6,7 @@ const authSlice = createSlice({
     
         user: {
             email: "",
-            // password: "",
+            password: "",
         }
     },
     reducers: {
