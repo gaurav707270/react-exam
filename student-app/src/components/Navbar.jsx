@@ -11,7 +11,7 @@ const authSlice = createSlice({
     },
     reducers: {
         singUp: (state, action) => {
-            // user.state = action.payload
+            user.state = action.payload
 
         },
 
