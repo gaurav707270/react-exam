@@ -1,6 +1,5 @@
 OUTPUT => https://drive.google.com/file/d/1Xd6RzcDw4YMbtOdWJ5i3DkqtV6ILaFSO/view?usp=sharing
 
-
 # 🏦 ABC Co-operative Bank — Core Banking System
 
 A full-stack **Core Banking Management System** designed for **ABC Co-operative Bank** to manage customers, accounts, employees, branches, transactions, loans, and banking operations through a secure role-based system.
