@@ -8,7 +8,7 @@ import axios from "axios";
 export default function SignIn() {
 
   const navigate = useNavigate()
-  // const { user } = useSelector((state) => state.auth)
+  const { user } = useSelector((state) => state.auth)
   const emailRef = useRef("")
   // const passwordRef = useRef("")
 
